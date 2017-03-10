@@ -1,0 +1,51 @@
+-Por que o Linux recebeu esse nome
+Porque é uma versão livre do UNIX criada pelo Linus
+
+-O que são deamons
+É tipo de progrma que roda em background e não é controlado por usuários comuns
+
+-O que é shell
+É o terminal
+
+-Por que é importante evitar executar o terminal como super-usuário
+Porque o super-usuário tem acesso a todos os tipos de comando e se porventura algum comando de erro indesejado for executado, os danos podem ser permanentes
+
+-Qual botão do teclado completa o que o usuário escreve no terminal, de acordo com o contexto?
+TAB
+
+- 
+ls -l *.txt
+
+-Apresente os respectivos comandos no terminal para:
+A) Obter mais informações sobre um comando
+man
+B) Apresentar uma lista com os arquivos dentro de uma pasta
+ls
+C) Apresentar o caminho completo da pasta
+
+D) Trocar de pasta
+cd
+
+E) Criar uma pasta
+
+F) Apagar arquivos definitivamente
+rm
+
+G) Apagar pastas definitivamente
+
+H) Copiar arquivos
+cp
+
+I) Copiar pastas
+cp -r pastaorigem pastadestino
+
+J) Mover arquivos
+mv
+
+K) Mover pastas
+
+L) Renomear pastas
+mv
+
+M) Apresentar o conteúdo de um arquivo
+cat
